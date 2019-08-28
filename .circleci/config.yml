@@ -5,6 +5,9 @@ jobs:
       # specify the version you desire here
       - image: circleci/node:11
     working_directory: ~/repo
+    branches:
+      only:
+        - master
     steps:
       - checkout
       # Download and cache dependencies
