@@ -45,7 +45,7 @@ Duhet qe ti japim circleci te drejta ne repositorin tonë
  ![Add Project](https://github.com/albiluzi95/my-burgger-app/blob/master/src/assets/docs/addproject.png)
 
 Pasë kësaj do na hapet nje faqe tjeter ku duhet të zgjedhim llojin e makinës virtuale dhe gjuhën e programimit.
- ![Add System](https://github.com/albiluzi95/my-burgger-app/blob/master/src/assets/docs/addSystem.jpeg)
+ ![Add System](https://github.com/albiluzi95/my-burgger-app/blob/master/src/assets/docs/AddSystem.jpeg)
 # Configurimi i instruksioneve në aplikacionin tonë
 Duke u bazuar në dokumentin në faqen e circle-ci,  fillohet duke krijuar një file .circleci dhe brenda saj një file config.yml.
 Brënda atij file vendoset kodi i mëposhtëm e cila mban setin e konfigurimeve që kryhen.
@@ -99,8 +99,8 @@ Ne keto moment  mund te bejme deploy manual nga nderfaqja e circleci dhe do jepe
  ![Success](https://github.com/albiluzi95/my-burgger-app/blob/master/src/assets/docs/success.PNG)
 
 Referenca:
-[Firebase](https://firebase.google.com/docs/hosting)
-[Circle ci](https://circleci.com/docs/2.0)
-[](http://www.freepatentsonline.com/10120670.html)
-[](http://www.freepatentsonline.com/10120670.pdf)
+* [Firebase](https://firebase.google.com/docs/hosting)
+* [Circle ci](https://circleci.com/docs/2.0)
+* [http://www.freepatentsonline.com/10120670.html](http://www.freepatentsonline.com/10120670.html)
+* [http://www.freepatentsonline.com/10120670.pdf](http://www.freepatentsonline.com/10120670.pdf)
 
